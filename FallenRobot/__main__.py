@@ -383,7 +383,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                             text="✘ᴍʏ ᴏᴡɴᴇʀ✘", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
-                            text="✘ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ✘"",
+                            text="✘ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ✘",
                             url=f"https://t.me/wariornetwork"),
                         ),
                     ],
