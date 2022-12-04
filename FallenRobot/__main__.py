@@ -384,7 +384,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="✘ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ✘",
-                            url=f"https://t.me/wariornetwork"),
+                            url=f"https://t.me/wariornetwork",
                         ),
                     ],
                     [
@@ -414,7 +414,7 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                         ),
                         InlineKeyboardButton(
                             text="✘ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ✘",
-                            url="https://t.me/wariornetwork,
+                            url="https://t.me/wariornetwork",
                         ),
                     ],
                     [
