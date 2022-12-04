@@ -402,19 +402,19 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="✘sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ✘", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                         InlineKeyboardButton(
-                            text="ᴜᴩᴅᴀᴛᴇs", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="✘sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ✘", url=f"https://t.me/{SUPPORT_CHAT}"
                         ),
                     ],
                     [
                         InlineKeyboardButton(
-                            text="ᴅᴇᴠᴇʟᴏᴩᴇʀ", url=f"tg://user?id={OWNER_ID}"
+                            text="✘ᴍʏ ᴏᴡɴᴇʀ✘", url=f"tg://user?id={OWNER_ID}"
                         ),
                         InlineKeyboardButton(
-                            text="ɢɪᴛʜᴜʙ",
-                            url="https://github.com/noobvivek",
+                            text="✘ᴏᴜʀ ɴᴇᴛᴡᴏʀᴋ✘",
+                            url="https://t.me/wariornetwork,
                         ),
                     ],
                     [
@@ -454,7 +454,7 @@ def Source_about_callback(update: Update, context: CallbackContext):
 
 
 {BOT_NAME} ɪs ʟɪᴄᴇɴsᴇᴅ ᴜɴᴅᴇʀ ᴛʜᴇ [ᴍɪᴛ ʟɪᴄᴇɴsᴇ](https://t.me/pirokid).
-© 2022 - 2023 [@ᴅᴇᴠɪʟsʜᴇᴀᴠᴇɴᴍғ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
+© 2022 - 2023 [@ɴᴏᴏʙᴄʀᴇᴀᴛᴏʀ](https://t.me/{SUPPORT_CHAT}), ᴀʟʟ ʀɪɢʜᴛs ʀᴇsᴇʀᴠᴇᴅ.
 """,
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
