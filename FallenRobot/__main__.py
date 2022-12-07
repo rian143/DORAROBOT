@@ -402,10 +402,10 @@ def Fallen_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="✘sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ✘", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="✘sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ✘", url=f"https://t.me/NOOBCREATOR"
                         ),
                         InlineKeyboardButton(
-                            text="✘sᴜᴘᴘᴏʀᴛ ᴄʜᴀᴛ✘", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="✘ᴜᴘᴅᴀᴛᴇs ᴄʜᴀɴɴᴇʟ✘", url=f"https://t.me/NOOBXCREATOR"
                         ),
                     ],
                     [
