@@ -28,7 +28,7 @@ Successfully Written Text 💘
             photo=req,
             caption=caption,
             reply_markup=InlineKeyboardMarkup(
-                [[InlineKeyboardButton("• ᴛᴇʟᴇɢʀᴀᴩʜ •", url=req)]]
+                [[InlineKeyboardButton("• ᴍᴏɪ ᴊᴀᴀɴ •", url=f"https://t.me/pirokid")]]
             ),
         )
 
