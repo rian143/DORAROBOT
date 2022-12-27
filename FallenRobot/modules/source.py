@@ -31,7 +31,7 @@ async def repo(_, message: Message):
                     ),
                     InlineKeyboardButton(
                         "sᴏᴜʀᴄᴇ",
-                        url="https://github.com/noobvivek/DORAROBOT",
+                        url="https://github.com/vivekflylong/DORAROBOT",
                     ),
                 ]
             ]
