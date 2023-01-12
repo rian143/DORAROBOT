@@ -7,11 +7,11 @@ class Config(object):
 
     CASH_API_KEY = "Y15S02GIYDV"  # Get this value for currency converter from https://www.alphavantage.co/support/#api-key
 
-    DATABASE_URL = "postgres://wspsefei:VCPhPemgHxOSQQOjgNDzMqZy11StHiUX@mahmud.db.elephantsql.com/wspsefei"  # A sql database url from elephantsql.com
+    DATABASE_URL = "postgres://u@mahmud.db.elephantsql.com/wi"  # A sql database url from elephantsql.com
 
     EVENT_LOGS = (-10015075)  # Event logs channel to note down important bot level events
 
-    MONGO_DB_URI = "mongodb+srv:ngodb.net/?retryWrites=true&w=majority"  # Get ths value from cloud.mongodb.com
+    MONGO_DB_URI = "mongodbt/?retryWrites=true&w=majority"  # Get ths value from cloud.mongodb.com
 
   # Telegraph link of the image which will be shown at start command.
     START_IMG = "https://te.legra.ph/file/8b94867323e64dd9c8ef8.jpg"
